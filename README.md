@@ -1,12 +1,9 @@
-```md
 <h1 align="center">Hi 👋, I'm Syahrial</h1>
 <h3 align="center">Informatics Student | Laravel Developer | Future Software Engineer</h3>
 
 <p align="center">
 Focused on building real systems, improving every day, and mastering web development.
 </p>
-
----
 
 ## 🚀 About Me
 
@@ -36,12 +33,6 @@ Focused on building real systems, improving every day, and mastering web develop
 
 ---
 
-## 📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=SyahrialHipdi&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyahrialHipdi&layout=compact&theme=tokyonight)
-
 ---
 
 ## 🔥 Philosophy
@@ -51,4 +42,3 @@ Focused on building real systems, improving every day, and mastering web develop
 > Build quietly. Let success make noise.
 
 ---
-```
